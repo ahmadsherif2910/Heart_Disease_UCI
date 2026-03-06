@@ -1,0 +1,7 @@
+*
+!data
+!development
+!production
+!.dockerignore
+!Dockerfile
+!requirements.txt

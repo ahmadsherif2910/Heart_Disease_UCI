@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="104c203c-cd5e-4a22-848e-9259394ae745" name="Changes" comment="before changing notebooks">
-      <changelist_data name="ahmadsherif2910" email="ahmadsherifstudy2910@gmail.com" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production/full_pipeline.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/01_data_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development/notebooks/01_data_preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/02_pca_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development/notebooks/02_pca_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/03_feature_selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development/notebooks/03_feature_selection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/04_supervised_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development/notebooks/04_supervised_learning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/05_unsupervised_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development/notebooks/05_unsupervised_learning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/06_hyperparameter_tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/development/notebooks/06_hyperparameter_tuning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/07_full_pipeline.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ahmadsherif2910"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ahmadsherif2910/Heart_Disease_UCI.git",
+    "accountId": "e3147db0-73b5-4580-a670-3eb4522a2074"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -123,7 +126,7 @@
       <workItem from="1772529120857" duration="9812000" />
       <workItem from="1772693565747" duration="10101000" />
       <workItem from="1772713525861" duration="14074000" />
-      <workItem from="1772803800700" duration="4041000" />
+      <workItem from="1772803800700" duration="5300000" />
     </task>
     <task id="LOCAL-00001" summary="before changing notebooks">
       <option name="closed" value="true" />
@@ -133,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772400496926</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="before changing notebooks">
+      <option name="closed" value="true" />
+      <created>1772807995172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772807995172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
