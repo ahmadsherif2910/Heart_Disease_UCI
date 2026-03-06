@@ -1,0 +1,24 @@
+# IDE Settings
+.idea/
+
+# Specific Root Files
+test_cases.txt
+Attachment.pdf
+Out_5.csv
+
+# Data Folder Logic:
+data/*
+!data/processed_data/processed.cleveland.data
+
+# Notebooks Folder
+development/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.git
+.gitignore
+**/*.pyc
+__pycache__
+.env
